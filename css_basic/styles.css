@@ -11,6 +11,7 @@ main{
 article{
     flex: 2;
     overflow-y: auto;
+    padding-left: 15%;
 }
 aside{
     flex: 1;
